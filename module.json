@@ -1,0 +1,6 @@
+{
+  "disableAutoUpdate": false,
+  "name": "skip-wasteful-way",
+  "author": "valkyr1e",
+  "servers": ["https://raw.githubusercontent.com/valkyr1e-tera/skip-wasteful-way/master/"]
+}
